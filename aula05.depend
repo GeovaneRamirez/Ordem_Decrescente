@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647350381 source:c:\users\fatecano\documents\aulas de linguagem c\aula05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
